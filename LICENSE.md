@@ -5,7 +5,8 @@
 | Filename | License | Username | URL |
 |----------|---------|--------------|------|
 | archbtw.png | CC0 | xyproto | https://bbs.archlinux.org/viewtopic.php?pid=1931165#p1931165 |
-| archwave.png | CC0 | rhysperry111 | https://bbs.archlinux.org/viewtopic.php?pid=1931341#p1931341
+| archwave.png | CC0 | rhysperry111 | https://bbs.archlinux.org/viewtopic.php?pid=1931341#p1931341 |
+| archwaveinv.png | CC0 | rhysperry111 |https://bbs.archlinux.org/viewtopic.php?pid=1931567#p1931567 |
 | awesome.png | CC0 | baron-digit | https://bbs.archlinux.org/viewtopic.php?pid=1931273#p1931273 |
 | conference.png | CC0 | svimanet | https://bbs.archlinux.org/viewtopic.php?pid=1931283#p1931283 |
 | geolanes.png | CC0 | xyproto | https://bbs.archlinux.org/viewtopic.php?pid=1930379#p1930379 |
