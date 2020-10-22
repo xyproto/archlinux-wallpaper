@@ -6,4 +6,4 @@ Warm thanks to the contributors on the [Arch Linux Forum](https://bbs.archlinux.
 
 The wallpapers are released under either the SPL or the CC0 license. See [LICENSE.md](LICENSE.md) for a full overview.
 
-* Version: 1.0.0
+* Version: 1.5.0
