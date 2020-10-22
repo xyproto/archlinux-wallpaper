@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+    <wallpaper deleted="false">
+      <name>Arch BTW</name>
+      <filename>/usr/share/backgrounds/archlinux/archbtw.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Arch Wave Inverted</name>
+      <filename>/usr/share/backgrounds/archlinux/archwaveinv.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Arch Wave</name>
+      <filename>/usr/share/backgrounds/archlinux/archwave.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Awesome</name>
+      <filename>/usr/share/backgrounds/archlinux/awesome.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Conference</name>
+      <filename>/usr/share/backgrounds/archlinux/conference.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Geo Lanes</name>
+      <filename>/usr/share/backgrounds/archlinux/geolanes.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Geo Waves</name>
+      <filename>/usr/share/backgrounds/archlinux/geowaves.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Gritty</name>
+      <filename>/usr/share/backgrounds/archlinux/gritty.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Landscape</name>
+      <filename>/usr/share/backgrounds/archlinux/landscape.jpg</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Lone</name>
+      <filename>/usr/share/backgrounds/archlinux/lone.jpg</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Mountain</name>
+      <filename>/usr/share/backgrounds/archlinux/mountain.jpg</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Reflected</name>
+      <filename>/usr/share/backgrounds/archlinux/reflected.jpg</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Simple</name>
+      <filename>/usr/share/backgrounds/archlinux/simple.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Small</name>
+      <filename>/usr/share/backgrounds/archlinux/small.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Snow</name>
+      <filename>/usr/share/backgrounds/archlinux/snow.jpg</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Split</name>
+      <filename>/usr/share/backgrounds/archlinux/split.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Sunset</name>
+      <filename>/usr/share/backgrounds/archlinux/sunset.jpg</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Svalbard</name>
+      <filename>/usr/share/backgrounds/archlinux/svalbard.jpg</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Wave</name>
+      <filename>/usr/share/backgrounds/archlinux/wave.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Wild</name>
+      <filename>/usr/share/backgrounds/archlinux/wild.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Wire Feather</name>
+      <filename>/usr/share/backgrounds/archlinux/wirefeather.png</filename>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+      <name>Wire Parts</name>
+      <filename>/usr/share/backgrounds/archlinux/wireparts.png</filename>
+    </wallpaper>
+
+</wallpapers>
