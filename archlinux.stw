@@ -6,7 +6,7 @@
 #
 stw: 1.0
 name: archlinux
-format: /usr/share/backgrounds/archlinux/archlinux-%s
+format: /usr/share/backgrounds/archlinux/%s
 @07:00: archbtw.png
 @08:00: archwave.png
 @09:00: archwaveinv.png
